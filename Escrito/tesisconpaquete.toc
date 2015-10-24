@@ -1,0 +1,90 @@
+\select@language {spanish}
+\contentsline {chapter}{Lista de Figuras}{\es@scroman {x}}{chapter*.3}
+\contentsline {chapter}{Lista de Cuadros}{\es@scroman {xi}}{chapter*.4}
+\contentsline {chapter}{Resumen}{\es@scroman {xii}}{chapter*.5}
+\contentsline {chapter}{\numberline {1}Introducci\'on}{1}{chapter.1}
+\contentsline {chapter}{\numberline {2}Objetivos}{4}{chapter.2}
+\contentsline {section}{\numberline {2.1}Generales}{4}{section.2.1}
+\contentsline {section}{\numberline {2.2}Espec\IeC {\'\i }ficos}{4}{section.2.2}
+\contentsline {chapter}{\numberline {3}Justificaci\'on}{5}{chapter.3}
+\contentsline {chapter}{\numberline {4}Marco Te\'orico}{6}{chapter.4}
+\contentsline {section}{\numberline {4.1}Sistema hospitalario nacional}{6}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Descripci\'on}{6}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Cobertura}{8}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}Financiamiento}{8}{subsection.4.1.3}
+\contentsline {subsection}{\numberline {4.1.4}Niveles de Atenci\'on}{9}{subsection.4.1.4}
+\contentsline {subsection}{\numberline {4.1.5}Situaci\'on legal}{9}{subsection.4.1.5}
+\contentsline {subsubsection}{\numberline {4.1.5.1}Principios generales de un marco general}{10}{subsubsection.4.1.5.1}
+\contentsline {subsubsection}{\numberline {4.1.5.2}Firma electr\'onica en Guatemala}{11}{subsubsection.4.1.5.2}
+\contentsline {section}{\numberline {4.2}Historia cl\IeC {\'\i }nica}{12}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Descripci\'on}{12}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Hoja de signos vitales}{12}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Hoja de evoluci\'on}{13}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}Indicaciones m\'edicas}{13}{subsection.4.2.4}
+\contentsline {subsection}{\numberline {4.2.5}Notas de Enfermer\IeC {\'\i }a}{13}{subsection.4.2.5}
+\contentsline {subsection}{\numberline {4.2.6}Hojas de admisi\'on}{13}{subsection.4.2.6}
+\contentsline {subsection}{\numberline {4.2.7}Hojas de la entrevista y examen cl\IeC {\'\i }nico general}{14}{subsection.4.2.7}
+\contentsline {section}{\numberline {4.3}Design Thinking}{14}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Descripci\'on}{14}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Proceso de definici\'on}{15}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}Proceso de investigaci\'on}{16}{subsection.4.3.3}
+\contentsline {subsection}{\numberline {4.3.4}Proceso de s\IeC {\'\i }ntesis}{17}{subsection.4.3.4}
+\contentsline {subsection}{\numberline {4.3.5}Proceso de exploraci\'on}{18}{subsection.4.3.5}
+\contentsline {subsection}{\numberline {4.3.6}Proceso de dise\~no de prototipos}{19}{subsection.4.3.6}
+\contentsline {section}{\numberline {4.4}Medios de Comunicaci\'on}{19}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Respuesta de voz interactiva IVR}{20}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Servicio de mensajes cortos SMS}{23}{subsection.4.4.2}
+\contentsline {subsection}{\numberline {4.4.3}Correo electr\'onico}{24}{subsection.4.4.3}
+\contentsline {subsection}{\numberline {4.4.4}Aplicaci\'on m\'ovil}{24}{subsection.4.4.4}
+\contentsline {section}{\numberline {4.5}Plataformas \textit {open source}}{25}{section.4.5}
+\contentsline {subsection}{\numberline {4.5.1}Descripci\'on}{25}{subsection.4.5.1}
+\contentsline {subsection}{\numberline {4.5.2}Plataforma OpenMRS}{26}{subsection.4.5.2}
+\contentsline {subsubsection}{\numberline {4.5.2.1}Historia y logros}{27}{subsubsection.4.5.2.1}
+\contentsline {subsubsection}{\numberline {4.5.2.2}M\'odulo de Servicios Web REST}{27}{subsubsection.4.5.2.2}
+\contentsline {subsection}{\numberline {4.5.3}Plataforma FrontlineSMS}{28}{subsection.4.5.3}
+\contentsline {subsubsection}{\numberline {4.5.3.1}Requerimientos de FrontlineSMS}{29}{subsubsection.4.5.3.1}
+\contentsline {subsubsection}{\numberline {4.5.3.2}\IeC {\textquestiondown }C\'omo funciona FrontlineSMS?}{29}{subsubsection.4.5.3.2}
+\contentsline {subsubsection}{\numberline {4.5.3.3}Historia y logros}{29}{subsubsection.4.5.3.3}
+\contentsline {subsection}{\numberline {4.5.4}Otras plataformas}{30}{subsection.4.5.4}
+\contentsline {chapter}{\numberline {5}Antecedentes}{31}{chapter.5}
+\contentsline {section}{\numberline {5.1}Sistemas generales en el \'area de salud}{31}{section.5.1}
+\contentsline {section}{\numberline {5.2}Estudios sobre el uso de medios de comunicaci\'on}{32}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}El uso de mensajes de texto en el \'area de salud}{32}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}El uso de llamadas en el \'area de salud}{32}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {5.2.3}El uso de correo electr\'onico en el \'area de salud}{33}{subsection.5.2.3}
+\contentsline {subsection}{\numberline {5.2.4}El uso de aplicaciones m\'oviles en \'area de salud}{34}{subsection.5.2.4}
+\contentsline {chapter}{\numberline {6}Metodolog\IeC {\'\i }a}{35}{chapter.6}
+\contentsline {section}{\numberline {6.1}Definici\'on}{36}{section.6.1}
+\contentsline {section}{\numberline {6.2}Investigaci\'on}{37}{section.6.2}
+\contentsline {section}{\numberline {6.3}S\IeC {\'\i }ntesis}{38}{section.6.3}
+\contentsline {section}{\numberline {6.4}Exploraci\'on}{39}{section.6.4}
+\contentsline {section}{\numberline {6.5}Dise\~no de Prototipos}{40}{section.6.5}
+\contentsline {subsection}{\numberline {6.5.1}Validaci\'on interna}{41}{subsection.6.5.1}
+\contentsline {subsection}{\numberline {6.5.2}Validaci\'on externa}{41}{subsection.6.5.2}
+\contentsline {subsubsection}{\numberline {6.5.2.1}Validaci\'on de los \emph {storyboards}}{41}{subsubsection.6.5.2.1}
+\contentsline {subsubsection}{\numberline {6.5.2.2}Entrevistas a pacientes}{42}{subsubsection.6.5.2.2}
+\contentsline {subsection}{\numberline {6.5.3}Investigaci\'on de herramientas}{42}{subsection.6.5.3}
+\contentsline {subsubsection}{\numberline {6.5.3.1}M\'odulo de informaci\'on al paciente}{42}{subsubsection.6.5.3.1}
+\contentsline {chapter}{\numberline {7}Resultados}{43}{chapter.7}
+\contentsline {section}{\numberline {7.1}Definici\'on}{43}{section.7.1}
+\contentsline {section}{\numberline {7.2}Investigaci\'on}{44}{section.7.2}
+\contentsline {section}{\numberline {7.3}S\IeC {\'\i }ntesis}{46}{section.7.3}
+\contentsline {section}{\numberline {7.4}Exploraci\'on}{47}{section.7.4}
+\contentsline {section}{\numberline {7.5}Dise\~no de Prototipos}{49}{section.7.5}
+\contentsline {subsection}{\numberline {7.5.1}Validaci\'on externa del m\'odulo informaci\'on al paciente}{50}{subsection.7.5.1}
+\contentsline {subsubsection}{\numberline {7.5.1.1}Validaci\'on de los \emph {storyboards}}{50}{subsubsection.7.5.1.1}
+\contentsline {subsubsection}{\numberline {7.5.1.2}Entrevistas a pacientes}{51}{subsubsection.7.5.1.2}
+\contentsline {subsection}{\numberline {7.5.2}Investigaci\'on de herramientas}{56}{subsection.7.5.2}
+\contentsline {subsubsection}{\numberline {7.5.2.1}Integraci\'on de FrontlineSMS con OpenMRS}{57}{subsubsection.7.5.2.1}
+\contentsline {chapter}{\numberline {8}An\'alisis de resultados}{59}{chapter.8}
+\contentsline {chapter}{\numberline {9}Conclusiones}{64}{chapter.9}
+\contentsline {chapter}{\numberline {10}Recomendaciones}{65}{chapter.10}
+\contentsline {chapter}{11\ \ Bibliograf\'ia}{66}{chapter*.6}
+\contentsline {chapter}{\numberline {12}Anexos}{72}{chapter.12}
+\contentsline {section}{\numberline {12.1}Entrevistas semi-estructuradas basadas en el brief del estudio}{72}{section.12.1}
+\contentsline {section}{\numberline {12.2}Plantilla utilizada para la codificaci\'on de las entrevistas semi-estructudas}{74}{section.12.2}
+\contentsline {section}{\numberline {12.3}Codificaci\'on de las entrevistas semi-estructudas}{74}{section.12.3}
+\contentsline {section}{\numberline {12.4}Ideas de dise\~no generadas}{82}{section.12.4}
+\contentsline {section}{\numberline {12.5}Codificaci\'on de entrevistas realizadas en el Hospital San Juan de Dios}{88}{section.12.5}
+\contentsline {section}{\numberline {12.6}Codificaci\'on de entrevistas realizadas en el Hospital Roosevelt}{90}{section.12.6}
+\contentsline {section}{\numberline {12.7}Entrevistas sobre comunicaci\'on de pacientes}{91}{section.12.7}
