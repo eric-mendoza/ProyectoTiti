@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.8.24)  23 OCT 2015 14:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.10.24)  26 OCT 2015 23:41
 entering extended mode
 **"Caratulas con paquete.tex"
 ("Caratulas con paquete.tex"
@@ -124,10 +124,6 @@ File: logoUVGdorado.png Graphic file (type png)
  <use logoUVGdorado.png>
 Package pdftex.def Info: logoUVGdorado.png used on input line 19.
 (pdftex.def)             Requested size: 88.16927pt x 112.01831pt.
-
-[1
-
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./logoUVGdorado.png>]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 22.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -142,33 +138,34 @@ Overfull \hbox (22.22745pt too wide) in paragraph at lines 22--23
 [][] 
  []
 
-[2]
+[1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./logoUVGdorado.png>]
 Overfull \vbox (7.0pt too high) has occurred while \output is active []
 
- [3]
-[4]
+ [2]
+[3]
 File: logoUVGdorado.png Graphic file (type png)
  <use logoUVGdorado.png>
 Package pdftex.def Info: logoUVGdorado.png used on input line 28.
 (pdftex.def)             Requested size: 88.16927pt x 106.96086pt.
- [5] [6] ("Caratulas con paquete.aux"
+ [4] ("Caratulas con paquete.aux"
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
 ) ) 
 Here is how much of TeX's memory you used:
- 1980 strings out of 493698
- 25776 string characters out of 3144409
+ 1978 strings out of 493698
+ 25760 string characters out of 3144414
  87823 words of memory out of 3000000
- 5333 multiletter control sequences out of 15000+200000
+ 5331 multiletter control sequences out of 15000+200000
  4851 words of font info for 18 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  34i,7n,30p,522b,384s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/P
-rogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Fi
-les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on "Caratulas con paquete.pdf" (6 pages, 82891 bytes).
+rogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+Output written on "Caratulas con paquete.pdf" (4 pages, 62679 bytes).
 PDF statistics:
- 36 PDF objects out of 1000 (max. 8388607)
+ 26 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
